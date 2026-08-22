@@ -1,1 +1,1 @@
-web: python teach_4.py
+web: python teach.py
